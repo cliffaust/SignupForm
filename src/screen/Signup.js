@@ -68,7 +68,7 @@ const Signup = () => {
         <Text style={styles.noAccount}>
           You already have account?{" "}
           <TouchableOpacity>
-            <Text style={styles.signupText}>Login up</Text>
+            <Text style={styles.signupText}>Log in</Text>
           </TouchableOpacity>
         </Text>
       </ScrollView>
